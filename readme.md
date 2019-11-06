@@ -88,7 +88,7 @@ _Resumen de ejecución_
 > * Validar logs en el servidor de la ejecución
 
 
-## Crear la imagen del servicio suma ⚙️
+## Crear la imagen api_clientes del servicio apiclientes  ⚙️
 
 _Validado que funciona el servicio, se puede crear una imagen docker_
 
