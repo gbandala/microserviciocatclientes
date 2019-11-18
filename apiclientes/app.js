@@ -8,7 +8,7 @@ const Controller = require('./controllers/admin');
 //----------------------------------------------------------------------------------------
 //2.-Configurar web server y parsee los datos
 const app = express();
-const port = 2000;
+const port = 1500;
 app.use(bodyParser.json());
 
 //----------------------------------------------------------------------------------------
